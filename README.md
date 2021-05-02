@@ -27,6 +27,7 @@ Best Practices (5 points)
 2 – All pages pass the html validator
 
 Creative Portion (10 points)
-
+- Add an order page, which has two options, one shows all the unpaid orders and the other shows all paid orders. Users can also pay their orders in this page.
+- The top four hot houses are shown in the main page, which depends on the click times of the rental house by users.
 
 Approved by Alex Stepansky                             Date: 4/4/2021
