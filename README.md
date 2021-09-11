@@ -1,11 +1,11 @@
 # “Airpnp” - Book Top Rated Rentals for Your Next Trip
 
-
-Languages/Frameworks used 
+## Languages/Frameworks used 
 – Used React.js frontend
 – Used Egg.js backend
 – MySQL Database
 
+### Functionality
 – Users can register, login and logout
 – Users can choose location and rental period
 – Users can search for rentals with specific criteria
